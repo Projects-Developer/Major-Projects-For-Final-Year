@@ -1,7 +1,7 @@
 # Major Projects For Final Year
 Major Projects For Final Year Includes Source Code, PPT, Synopsis, Report, Documents, Base Research Paper &amp; Video tutorials
 
-### Final Year Projects For Computer Science List
+### Major Projects For Final Year
 
 1. Attendance System Using Blockchain Project	https://youtu.be/wdtI2qsQptc?si=LzTyv-jDydS64Q0a
 2. Ethereum Explorer Project	https://youtu.be/buJ4Sg7At1o?si=SPHNwx24nyGiJplg
