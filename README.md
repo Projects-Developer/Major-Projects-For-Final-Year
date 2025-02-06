@@ -3,12 +3,25 @@ Major Projects For Final Year Includes Source Code, PPT, Synopsis, Report, Docum
 
 ### Major Projects For Final Year
 
-1. Attendance System Using Blockchain Project	https://youtu.be/wdtI2qsQptc?si=LzTyv-jDydS64Q0a
-2. Ethereum Explorer Project	https://youtu.be/buJ4Sg7At1o?si=SPHNwx24nyGiJplg
-3. Blockchain Voting System	https://youtu.be/-OD5LRbKcJI?si=Um2RZPgbuSXEb0qg
-4. Health Record Using Blockchain	https://youtu.be/akHpUgWmcE8?si=23YZ6GgvuDHHvlEw
-5. Decentrilized Blockchain Money Transaction Project 	https://youtu.be/qI-rGzZsF1Y?si=kAefCGvyOELxTXYP
-6. Land Registry Using Blockchain technology	https://youtu.be/0x-fnZXXrD0?si=2EXgO3CZtwv577T3
+1	Malware Detection Using Deep Learning Project	https://youtu.be/f-JRYJWVKKE?si=GuebwSt9chYyjZzT
+
+2	Malware Detection Using Machine learning and Deep Learning	https://youtu.be/sytw02floHA?si=NuQLL1U0O5c8eGTl
+
+3	Android Malware Detection Project	https://youtu.be/Qfrshjn38JY?si=LW_NAISMzr8N_j7H
+
+4	Malware detection project	https://youtu.be/o7W1fRSxci0?si=rWFzs_5PijmSd8-p
+
+5	Network Intrusion Detection Using Machine Learning Project	https://youtu.be/fUMWwDYPjOk?si=QEy_uIox6nJpACMw
+
+6	URL Phishing Detection System	https://youtu.be/nDxP_lJmVk4?si=UC_oWJWhMvClN0v_
+
+7	GIF Malware Detection Project	https://youtu.be/3JQ9uPETJCQ?si=bSzozeBaqbXHeMRD
+
+8	Malware Detection using Machine learning and Deep Learning Project	https://youtu.be/LdhoFN2ZTFM?si=T-YQX5vzTEfwrTiZ
+
+9	Virus Prediction Using Machine Learning	https://youtu.be/eUYSX3zV_-k?si=gGwZbo_8glpD4-od
+
+10	UPI Fraud Detection Using Machine Learning	https://youtu.be/uzVdxlG1gIY?si=oTXSkICVcrh4wt-K
 
 ### Project include: 
 
